@@ -33,4 +33,21 @@ This is the link of [Github](https://github.com)
 
 # Image
 ![Github Octat](https://myoctocat.com/assets/images/base-octocat.svg)
-![Github Logo](/images/github.bmp)
+![Github Logo](/blob/main/images/github.bmp)
+
+
+# Lists
+
+* Orange
+* Apple
+* Peach
+
+1. Black
+2. White
+3. Red
+4. Green
+
+1. Introduction
+    * Sub Heading
+        * Sub Sub Heading
+        
