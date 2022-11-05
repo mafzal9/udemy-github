@@ -16,3 +16,12 @@
 # Quote
 This is a simple text
 > This is a Quote Text
+
+# Code Quote
+this is inline `command' if you want to display
+
+```
+<?php
+    echo phpifno();
+?>
+```
