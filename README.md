@@ -5,3 +5,10 @@
 ##### H5 Heading
 ###### H6 Heading
 
+# Text Formating
+
+**Bold**
+*Italic*
+***Bold & Italic Combined***
+~~Strike~~
+**Bold this Text _Only this is Italic_ But other is Still Bold*
