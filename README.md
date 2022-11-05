@@ -11,4 +11,4 @@
 *Italic*
 ***Bold & Italic Combined***
 ~~Strike~~
-**Bold this Text _Only this is Italic_ But other is Still Bold*
+**Bold this Text _Only this is Italic_ But other is Still Bold**
