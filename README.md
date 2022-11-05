@@ -18,10 +18,15 @@ This is a simple text
 > This is a Quote Text
 
 # Code Quote
-this is inline `command' if you want to display
+this is inline `command` if you want to display
 
 ```
 <?php
     echo phpifno();
 ?>
 ```
+
+# Link
+
+This is the link of [Google](https://google.com)
+This is the link of [Github](https://github.com)
