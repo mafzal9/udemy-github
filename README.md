@@ -30,3 +30,7 @@ this is inline `command` if you want to display
 
 This is the link of [Google](https://google.com)
 This is the link of [Github](https://github.com)
+
+# Image
+![Github Octat](https://myoctocat.com/assets/images/base-octocat.svg)
+![Github Logo](/images/github.bmp)
