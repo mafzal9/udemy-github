@@ -53,10 +53,11 @@ This is the link of [Github](https://github.com)
         
 
 # Mention 
-@ mafzal9 :student:
-@ github/support :student:
+@mafzal9 
+@github/support :student:
 
 # Emoji
 
 We are good to go :+1:
+
 
